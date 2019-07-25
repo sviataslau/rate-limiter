@@ -20,3 +20,7 @@ Feel free to spend some time and to set up the IDE to your preferred settings (e
 You are welcome to ask any questions regarding the requirements, treat us as product owners/analysts/whoever who knows the business.
 You are allowed to use anything you used to use during your daily job routine, e.g. stackoverflow, google, etc. 
 Use simple in-memory data structures to store the data, don't rely on the particular database.
+
+Send a pull request once you finished.
+
+Good luck!
