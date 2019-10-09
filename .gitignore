@@ -1,2 +1,6 @@
 obj
 bin
+/.vs/RateLimiter/v16/TestStore/0
+/.vs/RateLimiter/v16/Server/sqlite3
+/.vs/RateLimiter/v16
+/packages/NUnit.3.12.0
